@@ -1,7 +1,8 @@
 {
 "headers": {
 "/*": {
-"X-Author": "staskzn"
+"X-Author": "staskzn",
+"Access-Control-Allow-Origin": "*" 
 }
 }
 }
